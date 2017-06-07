@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ghost in the Well]]></title>
+        <description><![CDATA[Ghost in the Well]]></description>
+        <link>http://ghostinthewell.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 05 Jun 2017 16:01:24 GMT</lastBuildDate>
+        <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Mon, 05 Jun 2017 16:01:23 GMT</pubDate>
+        <item>
+            <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
+            <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
+            <link>http://juliacomputing.com/blog/2016/12/13/neural-styles.html</link>
+            <guid isPermaLink="false">0ea63b24-d23c-4c0c-b4dc-3fc68192d94c</guid>
+            <pubDate>Tue, 23 May 2017 16:17:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is Mycroft? | Mycroft]]></title>
+            <description><![CDATA[<article><h1>What is Mycroft? | Mycroft</h1><p>Documentation for Mycroft Core</p></article>]]></description>
+            <link>https://docs.mycroft.ai/</link>
+            <guid isPermaLink="false">d1ca2763-ac3e-448a-932a-e3c627842d8e</guid>
+            <pubDate>Tue, 23 May 2017 16:16:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mycroft: An Open Source Artificial Intelligence For Everyone]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.kickstarter.com%2Fprojects%2Faiforeveryone%2Fmycroft-an-open-source-artificial-intelligence-for%2Fwidget%2Fvideo.html&url=https%3A%2F%2Fwww.kickstarter.com%2Fprojects%2Faiforeveryone%2Fmycroft-an-open-source-artificial-intelligence-for&image=https%3A%2F%2Fksr-ugc.imgix.net%2Fassets%2F012%2F198%2F772%2F58b8c181d679ea622275818ac5b73ba4_original.jpg%3Fw%3D560%26h%3D315%26fit%3Dfill%26bg%3D000000%26v%3D1463741280%26auto%3Dformat%26q%3D92%26s%3D731c306b67b45111ed13ec1d4e0bf38b&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=kickstarter" width="560" height="420" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.kickstarter.com/projects/aiforeveryone/mycroft-an-open-source-artificial-intelligence-for</link>
+            <guid isPermaLink="false">b8f9275d-5c7f-4527-ac1b-86e61b6b48ac</guid>
+            <pubDate>Tue, 23 May 2017 16:15:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to the New AWS AI Blog! | AWS AI Blog]]></title>
+            <description><![CDATA[<article><h1>Welcome to the New AWS AI Blog! | AWS AI Blog</h1><p>If you ask 100 people for the definition of &quot;artificial intelligence,&quot; you&apos;ll get at least 100 answers, if not more. At AWS, we define it as a service or system which can perform tasks that usually require human-level intelligence such as visual perception, speech recognition, decision making, or translation.</p><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/02/10/amazon_ai_launch.gif"></article>]]></description>
+            <link>https://aws.amazon.com/blogs/ai/welcome-to-the-new-aws-ai-blog/</link>
+            <guid isPermaLink="false">e1a8af44-1974-472e-b0de-c31b41ed546f</guid>
+            <pubDate>Tue, 23 May 2017 16:15:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PCG Shotgun: 6 Techniques for Leveraging AI in Content Generation]]></title>
+            <description><![CDATA[<article><h1>PCG Shotgun: 6 Techniques for Leveraging AI in Content Generation</h1><p>You&apos;ve been logged out of GDC Vault since the maximum users allowed for this account has been reached. To access Members Only content on GDC Vault, please log out of GDC Vault from the computer which last accessed this account. Click here to find out about GDC Vault Membership options for more users.</p><img src="http://twvideo01.ubm-us.net/o1/vault/gdc2017/Images/GDC17VaultThumbnail.png"></article>]]></description>
+            <link>http://www.gdcvault.com/play/1024146/PCG-Shotgun-6-Techniques-for</link>
+            <guid isPermaLink="false">28dde691-53f5-4d5b-ae42-4291cf58fa25</guid>
+            <pubDate>Tue, 23 May 2017 16:05:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ten Minute TensorFlow Speech Recognition]]></title>
+            <description><![CDATA[<article><h1>Ten Minute TensorFlow Speech Recognition</h1><p>Like a lot of people, we&apos;ve been pretty interested in TensorFlow, the Google neural network software. If you want to experiment with using it for speech recognition, you&apos;ll want to check out [Silicon Valley Data Science&apos;s] GitHub repository which promises you a fast setup for a speech recognition demo.</p><img src="https://github.com/dgschwend/zynqnet/raw/master/toplevel_project_overview.jpg"></article>]]></description>
+            <link>http://hackaday.com/2017/03/24/ten-minute-tensorflow-speech-recognition/</link>
+            <guid isPermaLink="false">250d4e1a-df47-4d95-af36-c4111b00b4fe</guid>
+            <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI World Conference & Expo, Dec 11-13, 2017 - Boston, MA]]></title>
+            <description><![CDATA[<article><h1>AI World Conference &amp; Expo, Dec 11-13, 2017 - Boston, MA</h1><p>Conversational Interaction and NLP - Affective Computing - AI and Cybersecurity - AI and Real Time IoT - AI in Fintech - Building the Ecosystem: Investment, Alliance and Partnering - AI and Customer Experience - AI and IT Operations - AI Startup Lightning Panel - Cognitive Aware Robotics - Innovation</p><img src="https://aiworld.com/wp-content/uploads/2016/12/AITrends_500px-Wide_Color_Tag-300x106.png"></article>]]></description>
+            <link>https://aiworld.com/</link>
+            <guid isPermaLink="false">91c25611-e740-4544-b6b3-26f448156935</guid>
+            <pubDate>Mon, 05 Jun 2017 16:01:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Protect yourself from the sun with ShadeCraft's intelligent parasol, the Sunflower]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FokUwC1XnwVc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DokUwC1XnwVc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FokUwC1XnwVc%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=okUwC1XnwVc</link>
+            <guid isPermaLink="false">a7ead9bc-28fa-4fe6-b567-fb757838c9ef</guid>
+            <pubDate>Wed, 31 May 2017 17:37:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using Artificial Intelligence to Police the Bullies on League of Legends]]></title>
+            <description><![CDATA[<article><h1>Using Artificial Intelligence to Police the Bullies on League of Legends</h1><p>Like many online spaces, League of Legends, the most widely played online video game in the world today, is a breeding ground for abusive language and behavior.</p><img src="https://d267cvn3rvuq91.cloudfront.net/i/images/AI_Policing_Gamesx392.jpg?sw=1200"></article>]]></description>
+            <link>https://www.technologyreview.com/s/541151/a-video-game-algorithm-to-solve-online-abuse/</link>
+            <guid isPermaLink="false">0b564cd0-7b36-4ac4-ad45-42331e4aad48</guid>
+            <pubDate>Wed, 24 May 2017 16:34:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
