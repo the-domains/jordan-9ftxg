@@ -2,11 +2,11 @@
     <channel>
         <title><![CDATA[Ghost in the Well]]></title>
         <description><![CDATA[Ghost in the Well]]></description>
-        <link>http://ghostinthewell.com/</link>
+        <link>https://thegrid.ai/ghostinthewell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 May 2017 17:37:58 GMT</lastBuildDate>
-        <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 31 May 2017 17:37:57 GMT</pubDate>
+        <lastBuildDate>Wed, 24 May 2017 16:34:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ghostinthewell/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 24 May 2017 16:34:22 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -48,13 +48,6 @@
             <link>http://hackaday.com/2017/03/24/ten-minute-tensorflow-speech-recognition/</link>
             <guid isPermaLink="false">250d4e1a-df47-4d95-af36-c4111b00b4fe</guid>
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protect yourself from the sun with ShadeCraft's intelligent parasol, the Sunflower]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FokUwC1XnwVc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DokUwC1XnwVc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FokUwC1XnwVc%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://www.youtube.com/watch?v=okUwC1XnwVc</link>
-            <guid isPermaLink="false">a7ead9bc-28fa-4fe6-b567-fb757838c9ef</guid>
-            <pubDate>Wed, 31 May 2017 17:37:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Using Artificial Intelligence to Police the Bullies on League of Legends]]></title>
