@@ -4,8 +4,6 @@ github: true
 description: Thoughts on AI
 author:
   name: Stacie Arellano
-  url: 'http://wwe.staciearellano.com'
-  email: stacie@staciearellano.com
 collections:
   - index:
       path: /
@@ -116,20 +114,20 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
-  - name: theGrid.ai Wishlist
-    id: c85c5751-dc62-4e53-8d53-09107f8da8f7
+  - id: c85c5751-dc62-4e53-8d53-09107f8da8f7
+    name: theGrid.ai Wishlist
     type: content
-  - name: AI Resources
-    id: 821e4a28-72f0-4d6e-9981-736113491ec2
+  - id: 821e4a28-72f0-4d6e-9981-736113491ec2
+    name: AI Development
     type: content
-  - name: AI Fiction
-    id: e6907d00-9977-49de-a083-d83e024a4415
+  - id: e6907d00-9977-49de-a083-d83e024a4415
+    name: AI Fiction
     type: content
-  - name: Games
-    id: 0a0296ca-64d4-412e-a564-7ee4e21c15dc
+  - id: 0a0296ca-64d4-412e-a564-7ee4e21c15dc
+    name: Games
     type: content
-  - name: System Operators
-    id: 751f5d5d-f232-426a-a9e1-25c7191d0e36
+  - id: 751f5d5d-f232-426a-a9e1-25c7191d0e36
+    name: System Operators
     type: content
 layout_spectrum: 0.7694513315061974
 color:
@@ -148,4 +146,4 @@ content_rating:
 typography_spectrum: 0.1757278019514414
 opengraph: {}
 title: Ghost in the Well
-url: 'https://ghostinthewell.com'
+url: 'https://thegrid.ai/ghostinthewell'
