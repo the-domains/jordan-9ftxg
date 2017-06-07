@@ -4,6 +4,7 @@ github: true
 description: Thoughts on AI
 author:
   name: Stacie Arellano
+  email: stacie@staciearellano.com
 collections:
   - index:
       path: /
