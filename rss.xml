@@ -2,11 +2,11 @@
     <channel>
         <title><![CDATA[Ghost in the Well]]></title>
         <description><![CDATA[Ghost in the Well]]></description>
-        <link>https://thegrid.ai/ghostinthewell/</link>
+        <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 May 2017 16:34:25 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/ghostinthewell/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 May 2017 16:34:22 GMT</pubDate>
+        <lastBuildDate>Wed, 07 Jun 2017 15:19:31 GMT</lastBuildDate>
+        <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 07 Jun 2017 15:19:29 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -48,6 +48,27 @@
             <link>http://hackaday.com/2017/03/24/ten-minute-tensorflow-speech-recognition/</link>
             <guid isPermaLink="false">250d4e1a-df47-4d95-af36-c4111b00b4fe</guid>
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poet on the Shore]]></title>
+            <description><![CDATA[<article><h1>Poet on the Shore</h1><p>Machines are everywhere in our world, be it virtual or physical. We take it for granted that machines are merely tools that serve us and medium of human interaction. However, with the development of emerging technologies such as artificial intelligence, increasingly we encounter more and more autonomous and intelligent machines that are empowered to learn, reason, and make decisions.</p><img src="http://liuyuxi.xyz/wp-content/uploads/2017/04/7-copy.jpg"></article>]]></description>
+            <link>http://liuyuxi.xyz/portfolio/items/poet-on-the-shore/</link>
+            <guid isPermaLink="false">1b3f6441-f0d8-4c7c-9acb-8fc4dfd9664c</guid>
+            <pubDate>Wed, 07 Jun 2017 15:19:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI World Conference & Expo, Dec 11-13, 2017 - Boston, MA]]></title>
+            <description><![CDATA[<article><h1>AI World Conference &amp; Expo, Dec 11-13, 2017 - Boston, MA</h1><p>Conversational Interaction and NLP - Affective Computing - AI and Cybersecurity - AI and Real Time IoT - AI in Fintech - Building the Ecosystem: Investment, Alliance and Partnering - AI and Customer Experience - AI and IT Operations - AI Startup Lightning Panel - Cognitive Aware Robotics - Innovation</p><img src="https://aiworld.com/wp-content/uploads/2016/12/AITrends_500px-Wide_Color_Tag-300x106.png"></article>]]></description>
+            <link>https://aiworld.com/</link>
+            <guid isPermaLink="false">91c25611-e740-4544-b6b3-26f448156935</guid>
+            <pubDate>Mon, 05 Jun 2017 16:01:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Protect yourself from the sun with ShadeCraft's intelligent parasol, the Sunflower]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FokUwC1XnwVc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DokUwC1XnwVc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FokUwC1XnwVc%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=okUwC1XnwVc</link>
+            <guid isPermaLink="false">a7ead9bc-28fa-4fe6-b567-fb757838c9ef</guid>
+            <pubDate>Wed, 31 May 2017 17:37:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Using Artificial Intelligence to Police the Bullies on League of Legends]]></title>
