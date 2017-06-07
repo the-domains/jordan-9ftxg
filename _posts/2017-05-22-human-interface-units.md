@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-05-24T16:57:56.341Z'
-dateModified: '2017-05-24T16:57:56.050Z'
+datePublished: '2017-05-24T17:26:27.813Z'
+dateModified: '2017-05-24T17:26:27.456Z'
 description: >-
   Artist, Author, Web Maven, with a long time interest in Artificial
   Intelligence.
@@ -26,6 +26,6 @@ Artist, Author, Web Maven, with a long time interest in Artificial Intelligence.
 
 * She cut her AI teeth on A.L.I.C.E AIML
 
-### Hera
+### Hera K Leez
 
 Scientist, Technopath, Gentlebeing Genius
