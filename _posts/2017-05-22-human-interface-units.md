@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-05-24T16:57:54.024Z'
-dateModified: '2017-05-24T16:57:53.562Z'
+datePublished: '2017-05-24T16:57:56.341Z'
+dateModified: '2017-05-24T16:57:56.050Z'
 description: >-
   Artist, Author, Web Maven, with a long time interest in Artificial
   Intelligence.
