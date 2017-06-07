@@ -1,0 +1,151 @@
+name: Ghost In The Well
+analytics: {}
+github: true
+description: Thoughts on AI
+author:
+  name: Stacie Arellano
+  url: 'http://wwe.staciearellano.com'
+  email: stacie@staciearellano.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/022384a7-f9d7-4d8c-802e-03254a070b19.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/022384a7-f9d7-4d8c-802e-03254a070b19.jpg
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
+      description: ''
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/568b8a94-2e7a-4a10-9092-9ce10e80d536.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/568b8a94-2e7a-4a10-9092-9ce10e80d536.jpg
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
+      description: ''
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/399500ef-357c-4cf1-b90b-6ba849a60861.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/399500ef-357c-4cf1-b90b-6ba849a60861.jpg
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
+      description: ''
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/766ad988-9082-4391-8cb9-91c6393aae8e.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/766ad988-9082-4391-8cb9-91c6393aae8e.jpg
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
+      description: ''
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - name: theGrid.ai Wishlist
+    id: c85c5751-dc62-4e53-8d53-09107f8da8f7
+    type: content
+  - name: AI Resources
+    id: 821e4a28-72f0-4d6e-9981-736113491ec2
+    type: content
+  - name: AI Fiction
+    id: e6907d00-9977-49de-a083-d83e024a4415
+    type: content
+  - name: Games
+    id: 0a0296ca-64d4-412e-a564-7ee4e21c15dc
+    type: content
+  - name: System Operators
+    id: 751f5d5d-f232-426a-a9e1-25c7191d0e36
+    type: content
+layout_spectrum: 0.7694513315061974
+color:
+  lightness: 0.1216878174576392
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+  saturation: 0.336919928238552
+  brandStrength: 0.8933670266500057
+  rhythmicContrast: 0.165874940724398
+content_rating:
+  adult: false
+typography_spectrum: 0.1757278019514414
+opengraph: {}
+title: Ghost in the Well
+url: 'https://ghostinthewell.com'
