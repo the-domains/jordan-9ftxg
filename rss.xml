@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 07 Jun 2017 15:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2017 21:34:43 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 07 Jun 2017 15:19:29 GMT</pubDate>
+        <pubDate>Tue, 13 Jun 2017 21:34:42 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[chatbots.io]]></title>
+            <description><![CDATA[<article><h1>chatbots.io</h1><p>I used Pandorabots to power Skyvi, a.k.a. &quot;Siri for Android:&quot; a mobile application that used voice recognition and speech synthesis technology to enable people to talk to their very own personal assistant in natural language. Skyvi obeyed commands like look up the weather or post to Facebook, and even held witty, intelligent conversations.</p></article>]]></description>
+            <link>https://developer.pandorabots.com/</link>
+            <guid isPermaLink="false">91a72132-13c6-4c65-8124-1d25cdafbb03</guid>
+            <pubDate>Tue, 13 Jun 2017 21:34:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Poet on the Shore]]></title>
             <description><![CDATA[<article><h1>Poet on the Shore</h1><p>Machines are everywhere in our world, be it virtual or physical. We take it for granted that machines are merely tools that serve us and medium of human interaction. However, with the development of emerging technologies such as artificial intelligence, increasingly we encounter more and more autonomous and intelligent machines that are empowered to learn, reason, and make decisions.</p><img src="http://liuyuxi.xyz/wp-content/uploads/2017/04/7-copy.jpg"></article>]]></description>
             <link>http://liuyuxi.xyz/portfolio/items/poet-on-the-shore/</link>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=okUwC1XnwVc</link>
             <guid isPermaLink="false">a7ead9bc-28fa-4fe6-b567-fb757838c9ef</guid>
             <pubDate>Wed, 31 May 2017 17:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using Artificial Intelligence to Police the Bullies on League of Legends]]></title>
-            <description><![CDATA[<article><h1>Using Artificial Intelligence to Police the Bullies on League of Legends</h1><p>Like many online spaces, League of Legends, the most widely played online video game in the world today, is a breeding ground for abusive language and behavior.</p><img src="https://d267cvn3rvuq91.cloudfront.net/i/images/AI_Policing_Gamesx392.jpg?sw=1200"></article>]]></description>
-            <link>https://www.technologyreview.com/s/541151/a-video-game-algorithm-to-solve-online-abuse/</link>
-            <guid isPermaLink="false">0b564cd0-7b36-4ac4-ad45-42331e4aad48</guid>
-            <pubDate>Wed, 24 May 2017 16:34:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
