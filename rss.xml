@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Jun 2017 21:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2017 15:06:16 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Jun 2017 21:34:42 GMT</pubDate>
+        <pubDate>Tue, 18 Jul 2017 15:06:14 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What Makes an Artificial Intelligence Racist and Sexist]]></title>
+            <description><![CDATA[<article><h1>What Makes an Artificial Intelligence Racist and Sexist</h1><p>Artificial intelligence is infiltrating our daily lives, with applications that curate your phone pics, manage your email, and translate text from any language into another. Google, Facebook, Apple, and Microsoft are all heavily researching how to integrate AI into their major services.</p><img src="https://i.kinja-img.com/gawker-media/image/upload/s--wxjvVAyX--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/yydovgfvwma8nujvbbhd.jpg"></article>]]></description>
+            <link>https://lifehacker.com/what-makes-an-artificial-intelligence-racist-and-sexist-1796990621</link>
+            <guid isPermaLink="false">ca5bfbf6-d5cf-4960-8d42-04cd843f8432</guid>
+            <pubDate>Tue, 18 Jul 2017 15:06:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[chatbots.io]]></title>
             <description><![CDATA[<article><h1>chatbots.io</h1><p>I used Pandorabots to power Skyvi, a.k.a. &quot;Siri for Android:&quot; a mobile application that used voice recognition and speech synthesis technology to enable people to talk to their very own personal assistant in natural language. Skyvi obeyed commands like look up the weather or post to Facebook, and even held witty, intelligent conversations.</p></article>]]></description>
             <link>https://developer.pandorabots.com/</link>
@@ -69,13 +76,6 @@
             <link>https://aiworld.com/</link>
             <guid isPermaLink="false">91c25611-e740-4544-b6b3-26f448156935</guid>
             <pubDate>Mon, 05 Jun 2017 16:01:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protect yourself from the sun with ShadeCraft's intelligent parasol, the Sunflower]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FokUwC1XnwVc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DokUwC1XnwVc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FokUwC1XnwVc%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://www.youtube.com/watch?v=okUwC1XnwVc</link>
-            <guid isPermaLink="false">a7ead9bc-28fa-4fe6-b567-fb757838c9ef</guid>
-            <pubDate>Wed, 31 May 2017 17:37:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
