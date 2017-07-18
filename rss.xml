@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 18 Jul 2017 15:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2017 15:07:01 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Jul 2017 15:06:14 GMT</pubDate>
+        <pubDate>Tue, 18 Jul 2017 15:06:59 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How I Built an AI to Sort 2 Tons of Lego Pieces]]></title>
+            <description><![CDATA[<article><h1>How I Built an AI to Sort 2 Tons of Lego Pieces</h1><p>For many years as a child, I did nothing but play with Lego. Eventually I had children of my own, who had a nice Lego collection themselves, but nothing you&apos;d need machinery to sort. That changed after a trip to Legoland in Denmark.</p><img src="http://spectrum.ieee.org/image/MjkxMjcwNg.octet-stream"></article>]]></description>
+            <link>http://spectrum.ieee.org/geek-life/hands-on/how-i-built-an-ai-to-sort-2-tons-of-lego-pieces</link>
+            <guid isPermaLink="false">2ba1f5e2-2bf3-4c36-9b21-e97a08297e5e</guid>
+            <pubDate>Tue, 18 Jul 2017 15:06:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What Makes an Artificial Intelligence Racist and Sexist]]></title>
             <description><![CDATA[<article><h1>What Makes an Artificial Intelligence Racist and Sexist</h1><p>Artificial intelligence is infiltrating our daily lives, with applications that curate your phone pics, manage your email, and translate text from any language into another. Google, Facebook, Apple, and Microsoft are all heavily researching how to integrate AI into their major services.</p><img src="https://i.kinja-img.com/gawker-media/image/upload/s--wxjvVAyX--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/yydovgfvwma8nujvbbhd.jpg"></article>]]></description>
             <link>https://lifehacker.com/what-makes-an-artificial-intelligence-racist-and-sexist-1796990621</link>
@@ -69,13 +76,6 @@
             <link>http://liuyuxi.xyz/portfolio/items/poet-on-the-shore/</link>
             <guid isPermaLink="false">1b3f6441-f0d8-4c7c-9acb-8fc4dfd9664c</guid>
             <pubDate>Wed, 07 Jun 2017 15:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI World Conference & Expo, Dec 11-13, 2017 - Boston, MA]]></title>
-            <description><![CDATA[<article><h1>AI World Conference &amp; Expo, Dec 11-13, 2017 - Boston, MA</h1><p>Conversational Interaction and NLP - Affective Computing - AI and Cybersecurity - AI and Real Time IoT - AI in Fintech - Building the Ecosystem: Investment, Alliance and Partnering - AI and Customer Experience - AI and IT Operations - AI Startup Lightning Panel - Cognitive Aware Robotics - Innovation</p><img src="https://aiworld.com/wp-content/uploads/2016/12/AITrends_500px-Wide_Color_Tag-300x106.png"></article>]]></description>
-            <link>https://aiworld.com/</link>
-            <guid isPermaLink="false">91c25611-e740-4544-b6b3-26f448156935</guid>
-            <pubDate>Mon, 05 Jun 2017 16:01:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
