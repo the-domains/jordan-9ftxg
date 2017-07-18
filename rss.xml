@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 18 Jul 2017 15:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2017 15:10:13 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Jul 2017 15:09:28 GMT</pubDate>
+        <pubDate>Tue, 18 Jul 2017 15:10:12 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[You Can Now Code with Robots and Drones on Apple Swift Playgrounds]]></title>
+            <description><![CDATA[<article><h1>You Can Now Code with Robots and Drones on Apple Swift Playgrounds</h1><p>Last year Apple launched Swift Playgrounds, a project to teach coding in a fun and easy manner that kids would enjoy. Swift Playgrounds teaches computer programming through a nifty iPad app. The interface is similar to sites like Codecademy, but it&apos;s more colorful and visually entertaining, making it perfect for kids.</p><img src="http://cdn2.simplebotics.com/wp-content/uploads/2017/06/swift_playgrounds_robots.jpg"></article>]]></description>
+            <link>http://www.simplebotics.com/2017/06/you-can-now-code-with-robots-and-drones-at-apple-switch-playgrounds.html</link>
+            <guid isPermaLink="false">26830c57-ecc2-4eb3-8b27-4e506672133b</guid>
+            <pubDate>Tue, 18 Jul 2017 15:10:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[From 50s Perceptrons To The Freaky Stuff We're Doing Today]]></title>
             <description><![CDATA[<article><h1>From 50s Perceptrons To The Freaky Stuff We&apos;re Doing Today</h1><p>Things have gotten freaky. A few years ago, Google showed us that neural networks&apos; dreams are the stuff of nightmares, but more recently we&apos;ve seen them used for giving game character movements that are indistinguishable from that of humans, for creating photorealistic images given only textual descriptions, for providing vision for self-driving cars, and for much more.</p><img src="https://hackadaycom.files.wordpress.com/2017/06/neural.jpg?w=800"></article>]]></description>
             <link>http://hackaday.com/2017/06/08/from-50s-perceptrons-to-the-freaky-stuff-were-doing-today/</link>
@@ -69,13 +76,6 @@
             <link>https://lifehacker.com/what-makes-an-artificial-intelligence-racist-and-sexist-1796990621</link>
             <guid isPermaLink="false">ca5bfbf6-d5cf-4960-8d42-04cd843f8432</guid>
             <pubDate>Tue, 18 Jul 2017 15:06:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[chatbots.io]]></title>
-            <description><![CDATA[<article><h1>chatbots.io</h1><p>I used Pandorabots to power Skyvi, a.k.a. &quot;Siri for Android:&quot; a mobile application that used voice recognition and speech synthesis technology to enable people to talk to their very own personal assistant in natural language. Skyvi obeyed commands like look up the weather or post to Facebook, and even held witty, intelligent conversations.</p></article>]]></description>
-            <link>https://developer.pandorabots.com/</link>
-            <guid isPermaLink="false">91a72132-13c6-4c65-8124-1d25cdafbb03</guid>
-            <pubDate>Tue, 13 Jun 2017 21:34:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
