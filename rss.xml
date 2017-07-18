@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 18 Jul 2017 15:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2017 15:09:30 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Jul 2017 15:06:59 GMT</pubDate>
+        <pubDate>Tue, 18 Jul 2017 15:09:28 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[From 50s Perceptrons To The Freaky Stuff We're Doing Today]]></title>
+            <description><![CDATA[<article><h1>From 50s Perceptrons To The Freaky Stuff We&apos;re Doing Today</h1><p>Things have gotten freaky. A few years ago, Google showed us that neural networks&apos; dreams are the stuff of nightmares, but more recently we&apos;ve seen them used for giving game character movements that are indistinguishable from that of humans, for creating photorealistic images given only textual descriptions, for providing vision for self-driving cars, and for much more.</p><img src="https://hackadaycom.files.wordpress.com/2017/06/neural.jpg?w=800"></article>]]></description>
+            <link>http://hackaday.com/2017/06/08/from-50s-perceptrons-to-the-freaky-stuff-were-doing-today/</link>
+            <guid isPermaLink="false">d8c9a791-05af-42da-aab6-6d6a329bef64</guid>
+            <pubDate>Tue, 18 Jul 2017 15:09:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How I Built an AI to Sort 2 Tons of Lego Pieces]]></title>
             <description><![CDATA[<article><h1>How I Built an AI to Sort 2 Tons of Lego Pieces</h1><p>For many years as a child, I did nothing but play with Lego. Eventually I had children of my own, who had a nice Lego collection themselves, but nothing you&apos;d need machinery to sort. That changed after a trip to Legoland in Denmark.</p><img src="http://spectrum.ieee.org/image/MjkxMjcwNg.octet-stream"></article>]]></description>
             <link>http://spectrum.ieee.org/geek-life/hands-on/how-i-built-an-ai-to-sort-2-tons-of-lego-pieces</link>
@@ -69,13 +76,6 @@
             <link>https://developer.pandorabots.com/</link>
             <guid isPermaLink="false">91a72132-13c6-4c65-8124-1d25cdafbb03</guid>
             <pubDate>Tue, 13 Jun 2017 21:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poet on the Shore]]></title>
-            <description><![CDATA[<article><h1>Poet on the Shore</h1><p>Machines are everywhere in our world, be it virtual or physical. We take it for granted that machines are merely tools that serve us and medium of human interaction. However, with the development of emerging technologies such as artificial intelligence, increasingly we encounter more and more autonomous and intelligent machines that are empowered to learn, reason, and make decisions.</p><img src="http://liuyuxi.xyz/wp-content/uploads/2017/04/7-copy.jpg"></article>]]></description>
-            <link>http://liuyuxi.xyz/portfolio/items/poet-on-the-shore/</link>
-            <guid isPermaLink="false">1b3f6441-f0d8-4c7c-9acb-8fc4dfd9664c</guid>
-            <pubDate>Wed, 07 Jun 2017 15:19:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
