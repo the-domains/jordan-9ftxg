@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 18 Jul 2017 15:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2017 19:33:37 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Jul 2017 15:10:26 GMT</pubDate>
+        <pubDate>Mon, 24 Jul 2017 19:33:08 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Handling resource-intensive tasks with work queues in RabbitMQ - CloudAMQP]]></title>
+            <description><![CDATA[<article><h1>Handling resource-intensive tasks with work queues in RabbitMQ - CloudAMQP</h1><p>All computationally intensive work at The Grid; such as image analysing, and image processing are off-loaded as jobs in RabbitMQ. Instead of having a web server waiting for a result immediately, it is free to keep processing other requests. All jobs that are added to the queue are consumed by Heroku workers running with MsgFlo.</p><img src="https://www.cloudamqp.com/img/blog/sm-work-queue.jpg"></article>]]></description>
+            <link>https://www.cloudamqp.com/blog/2017-05-31-work-queues-in-rabbitmq-for-resource-intensive-tasks.html</link>
+            <guid isPermaLink="false">da937ef3-a292-4a49-b9c5-f2821e7a3517</guid>
+            <pubDate>Mon, 24 Jul 2017 19:33:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Self-Driving R/C Cars Built on TensorFlow]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FtOj53RRgtmg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtOj53RRgtmg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtOj53RRgtmg%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
             <link>https://www.youtube.com/watch?v=tOj53RRgtmg</link>
@@ -69,13 +76,6 @@
             <link>http://hackaday.com/2017/06/08/from-50s-perceptrons-to-the-freaky-stuff-were-doing-today/</link>
             <guid isPermaLink="false">d8c9a791-05af-42da-aab6-6d6a329bef64</guid>
             <pubDate>Tue, 18 Jul 2017 15:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How I Built an AI to Sort 2 Tons of Lego Pieces]]></title>
-            <description><![CDATA[<article><h1>How I Built an AI to Sort 2 Tons of Lego Pieces</h1><p>For many years as a child, I did nothing but play with Lego. Eventually I had children of my own, who had a nice Lego collection themselves, but nothing you&apos;d need machinery to sort. That changed after a trip to Legoland in Denmark.</p><img src="http://spectrum.ieee.org/image/MjkxMjcwNg.octet-stream"></article>]]></description>
-            <link>http://spectrum.ieee.org/geek-life/hands-on/how-i-built-an-ai-to-sort-2-tons-of-lego-pieces</link>
-            <guid isPermaLink="false">2ba1f5e2-2bf3-4c36-9b21-e97a08297e5e</guid>
-            <pubDate>Tue, 18 Jul 2017 15:06:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
