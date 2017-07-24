@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 24 Jul 2017 19:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2017 19:34:17 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Jul 2017 19:33:08 GMT</pubDate>
+        <pubDate>Mon, 24 Jul 2017 19:33:10 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Artificial Intelligence Gives Your Site Superpowers]]></title>
+            <description><![CDATA[<article><h1>Artificial Intelligence Gives Your Site Superpowers</h1><p>Supplementary information from the talk can be found here, including links to blog posts and online courses. Drupal&apos;s core feature as a CMS is the collection and organization of content. It&apos;s been said that Data is the &quot;fuel&quot; for the latest machine learning (ML) techniques called &quot;Deep Learning&quot; and &quot;Neural Networks&quot;.</p></article>]]></description>
+            <link>https://events.drupal.org/baltimore2017/sessions/artificial-intelligence-gives-your-site-superpowers</link>
+            <guid isPermaLink="false">ad890a2d-e6d1-40ee-b0ae-672e2b33a631</guid>
+            <pubDate>Mon, 24 Jul 2017 19:33:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Handling resource-intensive tasks with work queues in RabbitMQ - CloudAMQP]]></title>
             <description><![CDATA[<article><h1>Handling resource-intensive tasks with work queues in RabbitMQ - CloudAMQP</h1><p>All computationally intensive work at The Grid; such as image analysing, and image processing are off-loaded as jobs in RabbitMQ. Instead of having a web server waiting for a result immediately, it is free to keep processing other requests. All jobs that are added to the queue are consumed by Heroku workers running with MsgFlo.</p><img src="https://www.cloudamqp.com/img/blog/sm-work-queue.jpg"></article>]]></description>
             <link>https://www.cloudamqp.com/blog/2017-05-31-work-queues-in-rabbitmq-for-resource-intensive-tasks.html</link>
@@ -69,13 +76,6 @@
             <link>http://www.simplebotics.com/2017/06/you-can-now-code-with-robots-and-drones-at-apple-switch-playgrounds.html</link>
             <guid isPermaLink="false">26830c57-ecc2-4eb3-8b27-4e506672133b</guid>
             <pubDate>Tue, 18 Jul 2017 15:10:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From 50s Perceptrons To The Freaky Stuff We're Doing Today]]></title>
-            <description><![CDATA[<article><h1>From 50s Perceptrons To The Freaky Stuff We&apos;re Doing Today</h1><p>Things have gotten freaky. A few years ago, Google showed us that neural networks&apos; dreams are the stuff of nightmares, but more recently we&apos;ve seen them used for giving game character movements that are indistinguishable from that of humans, for creating photorealistic images given only textual descriptions, for providing vision for self-driving cars, and for much more.</p><img src="https://hackadaycom.files.wordpress.com/2017/06/neural.jpg?w=800"></article>]]></description>
-            <link>http://hackaday.com/2017/06/08/from-50s-perceptrons-to-the-freaky-stuff-were-doing-today/</link>
-            <guid isPermaLink="false">d8c9a791-05af-42da-aab6-6d6a329bef64</guid>
-            <pubDate>Tue, 18 Jul 2017 15:09:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
