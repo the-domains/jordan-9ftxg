@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 24 Jul 2017 19:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2017 15:36:29 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Jul 2017 19:33:10 GMT</pubDate>
+        <pubDate>Sun, 30 Jul 2017 15:36:17 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Facebook Shut Down AI After It Invented Its Own Language (The Epoch Times)]]></title>
+            <description><![CDATA[<article><h1>Facebook Shut Down AI After It Invented Its Own Language (The Epoch Times)</h1><p>Researches at Facebook shut down an artificial intelligence (AI) program after it created its own language, Digital Journal reports. The system developed code words to make communication more efficient and researchers took it offline when they realized it was no longer using English.</p><img src="http://c.apple.news/AgEXQTVuT0t2cFpEUWJpZVpBNnBCeUQ4aGcAMA"></article>]]></description>
+            <link>https://apple.news/A5nOKvpZDQbieZA6pByD8hg</link>
+            <guid isPermaLink="false">d07ab051-baf4-4f2a-8868-e089334399ce</guid>
+            <pubDate>Sun, 30 Jul 2017 15:36:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Artificial Intelligence Gives Your Site Superpowers]]></title>
             <description><![CDATA[<article><h1>Artificial Intelligence Gives Your Site Superpowers</h1><p>Supplementary information from the talk can be found here, including links to blog posts and online courses. Drupal&apos;s core feature as a CMS is the collection and organization of content. It&apos;s been said that Data is the &quot;fuel&quot; for the latest machine learning (ML) techniques called &quot;Deep Learning&quot; and &quot;Neural Networks&quot;.</p></article>]]></description>
             <link>https://events.drupal.org/baltimore2017/sessions/artificial-intelligence-gives-your-site-superpowers</link>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=tOj53RRgtmg</link>
             <guid isPermaLink="false">5f612170-2564-4041-9fb1-f80bbb7b5fd4</guid>
             <pubDate>Tue, 18 Jul 2017 15:10:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You Can Now Code with Robots and Drones on Apple Swift Playgrounds]]></title>
-            <description><![CDATA[<article><h1>You Can Now Code with Robots and Drones on Apple Swift Playgrounds</h1><p>Last year Apple launched Swift Playgrounds, a project to teach coding in a fun and easy manner that kids would enjoy. Swift Playgrounds teaches computer programming through a nifty iPad app. The interface is similar to sites like Codecademy, but it&apos;s more colorful and visually entertaining, making it perfect for kids.</p><img src="http://cdn2.simplebotics.com/wp-content/uploads/2017/06/swift_playgrounds_robots.jpg"></article>]]></description>
-            <link>http://www.simplebotics.com/2017/06/you-can-now-code-with-robots-and-drones-at-apple-switch-playgrounds.html</link>
-            <guid isPermaLink="false">26830c57-ecc2-4eb3-8b27-4e506672133b</guid>
-            <pubDate>Tue, 18 Jul 2017 15:10:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
