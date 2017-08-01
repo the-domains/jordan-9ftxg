@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 30 Jul 2017 15:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2017 14:50:23 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Jul 2017 15:36:17 GMT</pubDate>
+        <pubDate>Tue, 01 Aug 2017 14:50:21 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No, Facebook Did Not Panic and Shut Down an AI Program That Was Getting Dangerously Smart]]></title>
+            <description><![CDATA[<article><h1>No, Facebook Did Not Panic and Shut Down an AI Program That Was Getting Dangerously Smart</h1><p>In recent weeks, a story about experimental Facebook machine learning research has been circulating with increasingly panicky, Skynet-esque headlines. &quot;Facebook engineers panic, pull plug on AI after bots develop their own language,&quot; one site wrote. &quot;Facebook shuts down down AI after it invents its own creepy language,&quot; another added.</p><img src="https://i.kinja-img.com/gawker-media/image/upload/s--qCXUGZ4O--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/a2v2qabknctlfzxdidrk.jpg"></article>]]></description>
+            <link>http://gizmodo.com/no-facebook-did-not-panic-and-shut-down-an-ai-program-1797414922</link>
+            <guid isPermaLink="false">f9ff10d2-72d2-4d4a-afa7-66943c09345c</guid>
+            <pubDate>Tue, 01 Aug 2017 14:50:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Facebook Shut Down AI After It Invented Its Own Language (The Epoch Times)]]></title>
             <description><![CDATA[<article><h1>Facebook Shut Down AI After It Invented Its Own Language (The Epoch Times)</h1><p>Researches at Facebook shut down an artificial intelligence (AI) program after it created its own language, Digital Journal reports. The system developed code words to make communication more efficient and researchers took it offline when they realized it was no longer using English.</p><img src="http://c.apple.news/AgEXQTVuT0t2cFpEUWJpZVpBNnBCeUQ4aGcAMA"></article>]]></description>
             <link>https://apple.news/A5nOKvpZDQbieZA6pByD8hg</link>
@@ -69,13 +76,6 @@
             <link>https://www.cloudamqp.com/blog/2017-05-31-work-queues-in-rabbitmq-for-resource-intensive-tasks.html</link>
             <guid isPermaLink="false">da937ef3-a292-4a49-b9c5-f2821e7a3517</guid>
             <pubDate>Mon, 24 Jul 2017 19:33:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Self-Driving R/C Cars Built on TensorFlow]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FtOj53RRgtmg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtOj53RRgtmg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtOj53RRgtmg%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://www.youtube.com/watch?v=tOj53RRgtmg</link>
-            <guid isPermaLink="false">5f612170-2564-4041-9fb1-f80bbb7b5fd4</guid>
-            <pubDate>Tue, 18 Jul 2017 15:10:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
