@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Oct 2017 18:54:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2017 15:49:15 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Oct 2017 18:54:39 GMT</pubDate>
+        <pubDate>Tue, 19 Dec 2017 15:49:14 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Google's AIY Vision Kit Augments Pi With Vision Processor]]></title>
+            <description><![CDATA[<article><h1>Google&apos;s AIY Vision Kit Augments Pi With Vision Processor</h1><p>Google has announced their soon to be available Vision Kit, their next easy to assemble Artificial Intelligence Yourself (AIY) product. You&apos;ll have to provide your own Raspberry Pi Zero W but that&apos;s okay since what makes this special is Google&apos;s VisionBonnet board that they do provide, basically a low power neural network accelerator board running TensorFlow.</p><img src="https://hackadaycom.files.wordpress.com/2017/12/vision-kit-exploded-width-1000.png?w=800"></article>]]></description>
+            <link>https://hackaday.com/2017/12/17/googles-aiy-vision-kit-augments-pi-with-vision-processor/</link>
+            <guid isPermaLink="false">6d3442ad-8587-4b93-a70e-a81ad8b65813</guid>
+            <pubDate>Tue, 19 Dec 2017 15:49:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[xkcd: Self Driving]]></title>
             <description><![CDATA[<article><h1>xkcd: Self Driving</h1><p>I&apos;ll be visiting the UK next week! You can join me in London from September 30-October 2 (at New Scientist Live, The Royal Institution, and Intelligence Squared), then from October 3-6 in York, Edinburgh, Cambridge and Ely, Oxford, and Cheltenham.</p><img src="https://imgs.xkcd.com/comics/self_driving.png"></article>]]></description>
             <link>https://xkcd.com/1897/</link>
@@ -69,13 +76,6 @@
             <link>https://apple.news/A5nOKvpZDQbieZA6pByD8hg</link>
             <guid isPermaLink="false">d07ab051-baf4-4f2a-8868-e089334399ce</guid>
             <pubDate>Sun, 30 Jul 2017 15:36:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artificial Intelligence Gives Your Site Superpowers]]></title>
-            <description><![CDATA[<article><h1>Artificial Intelligence Gives Your Site Superpowers</h1><p>Supplementary information from the talk can be found here, including links to blog posts and online courses. Drupal&apos;s core feature as a CMS is the collection and organization of content. It&apos;s been said that Data is the &quot;fuel&quot; for the latest machine learning (ML) techniques called &quot;Deep Learning&quot; and &quot;Neural Networks&quot;.</p></article>]]></description>
-            <link>https://events.drupal.org/baltimore2017/sessions/artificial-intelligence-gives-your-site-superpowers</link>
-            <guid isPermaLink="false">ad890a2d-e6d1-40ee-b0ae-672e2b33a631</guid>
-            <pubDate>Mon, 24 Jul 2017 19:33:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
