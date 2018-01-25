@@ -4,8 +4,8 @@ description: >-
   Use your browser inspector, right click on the article/section you want to
   deep link, copy the id and then construct your link YourURL.ai#(the id you
   just copied)
-dateModified: '2018-01-25T22:34:24.784Z'
-datePublished: '2018-01-25T22:34:25.496Z'
+dateModified: '2018-01-25T22:35:02.185Z'
+datePublished: '2018-01-25T22:35:02.848Z'
 title: 'The Grid: Molly.AI wishlist'
 author: []
 publisher: {}
@@ -37,8 +37,8 @@ _type: Blurb
 * Tell Molly that something in a section is more or less important.
   * A less important item, like an image, should be smaller, or less saturated or otherwise less emphasized than the other items it's posted with.
   * A more important item could be promoted to Header text, or header graphic, or have all the other items displayed around it.
-* Be able to share links to any part of the page that Molly makes. (a share option to copy the generated url, how else can we post things on social media?)
-  * This is currently possible using the ugly generated ID for content.
+* Be able to **share links to any part of the page **that Molly makes. (a share option to copy the generated url, how else can we post things on social media?)
+  * This is currently possible using the _ugly generated ID _for content.
   * You end up with a link like this: [http://ghostinthewell.com/\#section-v\_ArticleTitle2x-761f94db-14aa-4051-a85b-abae7333a4de][0]
     * This is **an ugly, non human readable, non SEO optimized kind of link. **_Poor form, Molly!_
   * I used the browser inspector and grabbed the section id and added it to my url.
