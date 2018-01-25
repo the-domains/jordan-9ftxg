@@ -1,8 +1,11 @@
 ---
 inFeed: false
-description: 'Philosophically:'
-dateModified: '2018-01-25T21:08:06.499Z'
-datePublished: '2018-01-25T21:08:07.073Z'
+description: >-
+  Use your browser inspector, right click on the article/section you want to
+  deep link, copy the id and then construct your link YourURL.ai#(the id you
+  just copied)
+dateModified: '2018-01-25T21:09:59.199Z'
+datePublished: '2018-01-25T21:09:59.621Z'
 title: 'The Grid: Molly.AI wishlist'
 author: []
 publisher: {}
@@ -19,7 +22,7 @@ _type: Blurb
 
 ### Stacie:
 
-Philosophically:
+## Philosophically:
 
 * _**Really surprise me**_
 * **Design** some crazy **bad** things
@@ -27,7 +30,7 @@ Philosophically:
 * Give Molly**some initial direction** in the purpose of my site (maybe v3)
 * Or, enter content and **have Molly intuit, summarize and categorize **what I may want the direction to be (v3 clustering?)
 
-Functionally:
+## Functionally:
 
 * **Date and Time stamps** available to be included on the posts. (When)
 * Have option to **attach the user profile/sig to appropriate article**. (Author)
@@ -40,15 +43,15 @@ Functionally:
 
 * Have a **media manager**, (confirmed for v3)
 * Iterate designs much faster, allow me to give input.(coming in v3?)
-* Auto **pull in feeds** of my other sites or social networks. 
+* Auto **pull in feeds** of my other sites or social networks.
   * "Hey, I noticed you've linked to that site with that account several times, shall I automatically post updates from there to this Grid site?"
 * Ability to**pin** certain articles or objects **to the top** of the homepage
 * Ability to **merge posts together**
 * Allow for**tagging of posts**
-* Ability to group, or have Molly auto tag items. 
+* Ability to group, or have Molly auto tag items.
 * Support [Markdown][1] for editing/composing text. [More info @Daring Fireball][2]
 
-Usability:
+## Usability:
 
 * **Add Accessibility warnings for color/font choices.**
 * Add **settings/preferences for the admin experience**. IE color theme/font sizes, animations on or off.
