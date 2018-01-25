@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Dec 2017 15:49:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2018 16:03:17 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 Dec 2017 15:49:14 GMT</pubDate>
+        <pubDate>Thu, 25 Jan 2018 16:03:15 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What happens when AI tries too hard to improve reality, in one photo]]></title>
+            <description><![CDATA[<article><h1>What happens when AI tries too hard to improve reality, in one photo</h1><p>Google Photos&apos; intrepid Assistant just wants to help. Part of the Android-maker&apos;s photo app, it helps organize the thousands of photos stored on your phone. It can make little albums of places you went based on geolocation data, and through facial recognition can even organize albums about your friends, family and pets through.</p><img src="https://qzprod.files.wordpress.com/2018/01/o3mvsak.jpg?quality=80&strip=all&w=1200&fit=440%2C330"></article>]]></description>
+            <link>https://qz.com/1188170/google-photos-tried-to-fix-this-ski-photo/</link>
+            <guid isPermaLink="false">761f94db-14aa-4051-a85b-abae7333a4de</guid>
+            <pubDate>Thu, 25 Jan 2018 16:03:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Google's AIY Vision Kit Augments Pi With Vision Processor]]></title>
             <description><![CDATA[<article><h1>Google&apos;s AIY Vision Kit Augments Pi With Vision Processor</h1><p>Google has announced their soon to be available Vision Kit, their next easy to assemble Artificial Intelligence Yourself (AIY) product. You&apos;ll have to provide your own Raspberry Pi Zero W but that&apos;s okay since what makes this special is Google&apos;s VisionBonnet board that they do provide, basically a low power neural network accelerator board running TensorFlow.</p><img src="https://hackadaycom.files.wordpress.com/2017/12/vision-kit-exploded-width-1000.png?w=800"></article>]]></description>
             <link>https://hackaday.com/2017/12/17/googles-aiy-vision-kit-augments-pi-with-vision-processor/</link>
@@ -69,13 +76,6 @@
             <link>http://gizmodo.com/no-facebook-did-not-panic-and-shut-down-an-ai-program-1797414922</link>
             <guid isPermaLink="false">f9ff10d2-72d2-4d4a-afa7-66943c09345c</guid>
             <pubDate>Tue, 01 Aug 2017 14:50:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook Shut Down AI After It Invented Its Own Language (The Epoch Times)]]></title>
-            <description><![CDATA[<article><h1>Facebook Shut Down AI After It Invented Its Own Language (The Epoch Times)</h1><p>Researches at Facebook shut down an artificial intelligence (AI) program after it created its own language, Digital Journal reports. The system developed code words to make communication more efficient and researchers took it offline when they realized it was no longer using English.</p><img src="http://c.apple.news/AgEXQTVuT0t2cFpEUWJpZVpBNnBCeUQ4aGcAMA"></article>]]></description>
-            <link>https://apple.news/A5nOKvpZDQbieZA6pByD8hg</link>
-            <guid isPermaLink="false">d07ab051-baf4-4f2a-8868-e089334399ce</guid>
-            <pubDate>Sun, 30 Jul 2017 15:36:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
