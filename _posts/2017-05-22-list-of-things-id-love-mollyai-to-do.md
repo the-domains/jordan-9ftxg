@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Function
-dateModified: '2017-07-01T02:49:12.434Z'
-datePublished: '2017-07-01T02:49:13.135Z'
+dateModified: '2018-01-25T20:56:21.014Z'
+datePublished: '2018-01-25T20:56:21.534Z'
 title: 'The Grid: Molly.AI wishlist'
 author: []
 publisher: {}
@@ -20,6 +20,11 @@ _type: Blurb
 ### Stacie:
 
 Function
+
+* Be able to share links to any part of the page that Molly makes. (a share option to copy the generated url)
+  * This is currently possible using the ugly generated ID for content.
+  * You end up with a link like this: http://ghostinthewell.com/\#section-v\_ArticleTitle2x-761f94db-14aa-4051-a85b-abae7333a4de
+  * But not easy for people to make these links. I used the browser inspector and grabbed the section id and added it to my url. ![Use your browser inspector, right click on the article/section you want to deep link, copy the id and then construct your link YourURL.ai#(the id you just copied)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b822721-fafa-4578-94cf-811742c1a2e0.png)
 
 * Have a **media manager**, (confirmed for v3)
 * Iterate designs much faster, allow me to give input.(coming in v3?)
