@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-01-25T22:27:59.734Z'
-dateModified: '2018-01-25T22:27:59.214Z'
+datePublished: '2018-01-25T22:30:19.075Z'
+dateModified: '2018-01-25T22:30:18.109Z'
 description: >-
   Stacie Arellano - Artist, Author, Web Maven, with a long time interest in
   Artificial Intelligence. She cut her AI teeth on A.L.I.C.E AIML
