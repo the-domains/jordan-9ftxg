@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Jan 2018 20:39:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Apr 2018 19:03:02 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jan 2018 20:39:17 GMT</pubDate>
+        <pubDate>Wed, 04 Apr 2018 19:03:01 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[11 Javascript Machine Learning Libraries To Use In Your App]]></title>
+            <description><![CDATA[<article><h1>11 Javascript Machine Learning Libraries To Use In Your App</h1><p>11 machine learning libraries for Javascript. NLP, neural network training, deep learning and more for Node.js and the browser. Examples: mind.js, brain.js, neataptic, conventjs, webddn, neuro.js etc.</p><img src="https://cdn-images-1.medium.com/max/1600/1*5zWytCwc7aspMWtmGlxCWQ.jpeg"></article>]]></description>
+            <link>https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c</link>
+            <guid isPermaLink="false">7a50ae19-b696-4320-8da3-b34d6f7ccba2</guid>
+            <pubDate>Wed, 04 Apr 2018 19:02:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[This Is The World's First Graphical AI Interface]]></title>
             <description><![CDATA[<article><h1>This Is The World&apos;s First Graphical AI Interface</h1><p>Machine learning and artificial intelligence are so difficult to understand, only a few very smart computer scientists know how to build them. But the designers of a new tool have a big ambition: to create the Javascript for AI. The tool, called Cortex, uses a graphical user interface to make it so that building an AI model doesn&apos;t require a PhD.</p><img src="https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/sites/4/2018/01/p-1-this-is-the-worlds-first-graphical-ai-interface.jpg"></article>]]></description>
             <link>https://www.fastcodesign.com/90157777/this-is-the-worlds-first-graphical-ai-interface</link>
@@ -69,13 +76,6 @@
             <link>https://hackaday.com/2017/12/17/googles-aiy-vision-kit-augments-pi-with-vision-processor/</link>
             <guid isPermaLink="false">6d3442ad-8587-4b93-a70e-a81ad8b65813</guid>
             <pubDate>Tue, 19 Dec 2017 15:49:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[xkcd: Self Driving]]></title>
-            <description><![CDATA[<article><h1>xkcd: Self Driving</h1><p>I&apos;ll be visiting the UK next week! You can join me in London from September 30-October 2 (at New Scientist Live, The Royal Institution, and Intelligence Squared), then from October 3-6 in York, Edinburgh, Cambridge and Ely, Oxford, and Cheltenham.</p><img src="https://imgs.xkcd.com/comics/self_driving.png"></article>]]></description>
-            <link>https://xkcd.com/1897/</link>
-            <guid isPermaLink="false">5f059602-ac0a-4440-88f4-6b956592e84e</guid>
-            <pubDate>Mon, 09 Oct 2017 18:54:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
