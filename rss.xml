@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Apr 2018 19:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 May 2018 17:10:02 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Apr 2018 19:03:01 GMT</pubDate>
+        <pubDate>Wed, 02 May 2018 17:09:59 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lobe | Deep Learning Made Simple]]></title>
+            <description><![CDATA[<article><h1>Lobe | Deep Learning Made Simple</h1><p>Lobe is an easy-to-use visual tool that lets you build custom deep learning models, quickly train them, and ship them directly in your app without writing any code.</p><img src="https://lobe.ai/Lobe-OGImage.jpg"></article>]]></description>
+            <link>https://lobe.ai/</link>
+            <guid isPermaLink="false">fd9f099b-3a23-4f58-a2f8-f313e91db71f</guid>
+            <pubDate>Wed, 02 May 2018 17:09:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[11 Javascript Machine Learning Libraries To Use In Your App]]></title>
             <description><![CDATA[<article><h1>11 Javascript Machine Learning Libraries To Use In Your App</h1><p>11 machine learning libraries for Javascript. NLP, neural network training, deep learning and more for Node.js and the browser. Examples: mind.js, brain.js, neataptic, conventjs, webddn, neuro.js etc.</p><img src="https://cdn-images-1.medium.com/max/1600/1*5zWytCwc7aspMWtmGlxCWQ.jpeg"></article>]]></description>
             <link>https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c</link>
@@ -69,13 +76,6 @@
             <link>https://qz.com/1188170/google-photos-tried-to-fix-this-ski-photo/</link>
             <guid isPermaLink="false">761f94db-14aa-4051-a85b-abae7333a4de</guid>
             <pubDate>Thu, 25 Jan 2018 16:03:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google's AIY Vision Kit Augments Pi With Vision Processor]]></title>
-            <description><![CDATA[<article><h1>Google&apos;s AIY Vision Kit Augments Pi With Vision Processor</h1><p>Google has announced their soon to be available Vision Kit, their next easy to assemble Artificial Intelligence Yourself (AIY) product. You&apos;ll have to provide your own Raspberry Pi Zero W but that&apos;s okay since what makes this special is Google&apos;s VisionBonnet board that they do provide, basically a low power neural network accelerator board running TensorFlow.</p><img src="https://hackadaycom.files.wordpress.com/2017/12/vision-kit-exploded-width-1000.png?w=800"></article>]]></description>
-            <link>https://hackaday.com/2017/12/17/googles-aiy-vision-kit-augments-pi-with-vision-processor/</link>
-            <guid isPermaLink="false">6d3442ad-8587-4b93-a70e-a81ad8b65813</guid>
-            <pubDate>Tue, 19 Dec 2017 15:49:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
