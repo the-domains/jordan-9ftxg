@@ -4,8 +4,8 @@ description: >-
   Use your browser inspector, right click on the article/section you want to
   deep link, copy the id and then construct your link YourURL.ai#(the id you
   just copied)
-dateModified: '2018-05-16T17:16:58.322Z'
-datePublished: '2018-05-16T17:17:01.748Z'
+dateModified: '2018-05-16T17:18:58.331Z'
+datePublished: '2018-05-16T17:19:01.605Z'
 title: 'The Grid: Molly.AI wishlist'
 author: []
 publisher: {}
@@ -37,6 +37,11 @@ _type: Blurb
 
 * **Date and Time stamps** available to be included on the posts. (When)
 * S**ignature/Ownership**: Have option to **attach the user profile/sig to appropriate article**. (Author)
+* Choose Sort order
+  * Latest posts on top? 
+  * Oldest posts on top?
+  * Alphabetical
+  * ect
 * **Weighted Importance**: Tell Molly that something in a section is more or less important.
   * A less important item, like an image, should be smaller, or less saturated or otherwise less emphasized than the other items it's posted with.
   * A more important item could be promoted to Header text, or header graphic, or have all the other items displayed around it.
