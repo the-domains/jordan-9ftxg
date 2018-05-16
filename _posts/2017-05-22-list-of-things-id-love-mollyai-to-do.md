@@ -4,8 +4,8 @@ description: >-
   Use your browser inspector, right click on the article/section you want to
   deep link, copy the id and then construct your link YourURL.ai#(the id you
   just copied)
-dateModified: '2018-05-16T17:18:58.331Z'
-datePublished: '2018-05-16T17:19:01.605Z'
+dateModified: '2018-05-16T17:22:17.646Z'
+datePublished: '2018-05-16T17:22:20.863Z'
 title: 'The Grid: Molly.AI wishlist'
 author: []
 publisher: {}
@@ -37,7 +37,7 @@ _type: Blurb
 
 * **Date and Time stamps** available to be included on the posts. (When)
 * S**ignature/Ownership**: Have option to **attach the user profile/sig to appropriate article**. (Author)
-* Choose Sort order
+* **Sort order **(currently v2 ordering appears random)
   * Latest posts on top? 
   * Oldest posts on top?
   * Alphabetical
