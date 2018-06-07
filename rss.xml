@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 May 2018 16:54:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jun 2018 15:17:21 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 May 2018 16:54:25 GMT</pubDate>
+        <pubDate>Thu, 07 Jun 2018 15:17:14 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Teaching My Robot With TensorFlow]]></title>
+            <description><![CDATA[<article><h1>Teaching My Robot With TensorFlow</h1><p>If you&apos;re like me, then you&apos;d do pretty much anything to have your own R2-D2 or BB-8 robotic buddy. Just imagine the adorable adventures you&apos;d have together! I&apos;m delighted to report that the Anki Cozmo is the droid you&apos;ve been looking for. Cozmo is big personality packed into a itty-bitty</p><img src="https://images.unsplash.com/photo-1508175800969-525c72a047dd?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=8eb41ac5512139aa4d36228fd9fb9b99"></article>]]></description>
+            <link>https://blog.floydhub.com/teaching-my-robot-with-tensorflow/</link>
+            <guid isPermaLink="false">c4f6cb4e-4bbb-4f87-9010-40ee261d0718</guid>
+            <pubDate>Thu, 07 Jun 2018 15:16:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[To Build Truly Intelligent Machines, Teach Them Cause and Effect | Quanta Magazine]]></title>
             <description><![CDATA[<article><h1>To Build Truly Intelligent Machines, Teach Them Cause and Effect | Quanta Magazine</h1><p>Artificial intelligence owes a lot of its smarts to Judea Pearl. In the 1980s he led efforts that allowed machines to reason probabilistically. Now he&apos;s one of the field&apos;s sharpest critics. In his latest book, &quot; The Book of Why: The New Science of Cause and Effect,&quot; he argues that artificial intelligence has been handicapped by an incomplete understanding of what intelligence really is.</p><img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/05/Pearl_Library_2880x1920-2880x1920.jpg"></article>]]></description>
             <link>https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/</link>
@@ -69,13 +76,6 @@
             <link>https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c</link>
             <guid isPermaLink="false">7a50ae19-b696-4320-8da3-b34d6f7ccba2</guid>
             <pubDate>Wed, 04 Apr 2018 19:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Is The World's First Graphical AI Interface]]></title>
-            <description><![CDATA[<article><h1>This Is The World&apos;s First Graphical AI Interface</h1><p>Machine learning and artificial intelligence are so difficult to understand, only a few very smart computer scientists know how to build them. But the designers of a new tool have a big ambition: to create the Javascript for AI. The tool, called Cortex, uses a graphical user interface to make it so that building an AI model doesn&apos;t require a PhD.</p><img src="https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/sites/4/2018/01/p-1-this-is-the-worlds-first-graphical-ai-interface.jpg"></article>]]></description>
-            <link>https://www.fastcodesign.com/90157777/this-is-the-worlds-first-graphical-ai-interface</link>
-            <guid isPermaLink="false">915d1ee8-f464-42f3-b400-cff6b6db9756</guid>
-            <pubDate>Thu, 25 Jan 2018 20:39:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
