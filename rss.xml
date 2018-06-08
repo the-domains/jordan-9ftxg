@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jun 2018 15:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jun 2018 14:45:53 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 Jun 2018 15:17:14 GMT</pubDate>
+        <pubDate>Fri, 08 Jun 2018 14:45:52 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzyTC281TPVcjMK85MSVVIzFNIzU1KTdFTAABloQfp" height="244"></iframe>]]></description>
+            <link>https://the-grid.github.io/ed-userhtml/?g=eJyzyTC281TPVcjMK85MSVVIzFNIzU1KTdFTAABloQfp</link>
+            <guid isPermaLink="false">dbe0bf23-469b-4b01-95b7-8d6b970f3528</guid>
+            <pubDate>Fri, 08 Jun 2018 14:45:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Teaching My Robot With TensorFlow]]></title>
             <description><![CDATA[<article><h1>Teaching My Robot With TensorFlow</h1><p>If you&apos;re like me, then you&apos;d do pretty much anything to have your own R2-D2 or BB-8 robotic buddy. Just imagine the adorable adventures you&apos;d have together! I&apos;m delighted to report that the Anki Cozmo is the droid you&apos;ve been looking for. Cozmo is big personality packed into a itty-bitty</p><img src="https://images.unsplash.com/photo-1508175800969-525c72a047dd?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=8eb41ac5512139aa4d36228fd9fb9b99"></article>]]></description>
             <link>https://blog.floydhub.com/teaching-my-robot-with-tensorflow/</link>
@@ -69,13 +76,6 @@
             <link>https://lobe.ai/</link>
             <guid isPermaLink="false">fd9f099b-3a23-4f58-a2f8-f313e91db71f</guid>
             <pubDate>Wed, 02 May 2018 17:09:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11 Javascript Machine Learning Libraries To Use In Your App]]></title>
-            <description><![CDATA[<article><h1>11 Javascript Machine Learning Libraries To Use In Your App</h1><p>11 machine learning libraries for Javascript. NLP, neural network training, deep learning and more for Node.js and the browser. Examples: mind.js, brain.js, neataptic, conventjs, webddn, neuro.js etc.</p><img src="https://cdn-images-1.medium.com/max/1600/1*5zWytCwc7aspMWtmGlxCWQ.jpeg"></article>]]></description>
-            <link>https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c</link>
-            <guid isPermaLink="false">7a50ae19-b696-4320-8da3-b34d6f7ccba2</guid>
-            <pubDate>Wed, 04 Apr 2018 19:02:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
