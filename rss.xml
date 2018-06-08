@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jun 2018 14:45:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jun 2018 14:50:57 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 Jun 2018 14:45:52 GMT</pubDate>
+        <pubDate>Fri, 08 Jun 2018 14:50:56 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -48,13 +48,6 @@
             <link>http://hackaday.com/2017/03/24/ten-minute-tensorflow-speech-recognition/</link>
             <guid isPermaLink="false">250d4e1a-df47-4d95-af36-c4111b00b4fe</guid>
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzyTC281TPVcjMK85MSVVIzFNIzU1KTdFTAABloQfp" height="244"></iframe>]]></description>
-            <link>https://the-grid.github.io/ed-userhtml/?g=eJyzyTC281TPVcjMK85MSVVIzFNIzU1KTdFTAABloQfp</link>
-            <guid isPermaLink="false">dbe0bf23-469b-4b01-95b7-8d6b970f3528</guid>
-            <pubDate>Fri, 08 Jun 2018 14:45:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teaching My Robot With TensorFlow]]></title>
