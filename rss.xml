@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jun 2018 22:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jun 2018 16:13:16 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 Jun 2018 22:32:34 GMT</pubDate>
+        <pubDate>Wed, 20 Jun 2018 16:13:14 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Maneki Neko - Lightspeed Magazine]]></title>
+            <description><![CDATA[<article><h1>Maneki Neko - Lightspeed Magazine</h1><p>&quot;I can&apos;t go on,&quot; his brother said. Tsuyoshi Shimizu looked thoughtfully into the screen of his pasokon. His older brother&apos;s face was shiny with sweat from a late-night drinking bout. &quot;It&apos;s only a career,&quot; said Tsuyoshi, sitting up on his futon and adjusting his pajamas. &quot;You worry too much.&quot;</p><img src="http://www.lightspeedmagazine.com/wp-content/uploads/2011/04/Maneki-Neko-by-Bruce-Sterling.jpg"></article>]]></description>
+            <link>http://www.lightspeedmagazine.com/fiction/maneki-neko/</link>
+            <guid isPermaLink="false">40ebe73c-e5a0-4e3b-8904-18e9361d0f1a</guid>
+            <pubDate>Wed, 20 Jun 2018 16:13:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Turning Design Mockups Into Code With Deep Learning]]></title>
             <description><![CDATA[<article><h1>Turning Design Mockups Into Code With Deep Learning</h1><p>Within three years deep learning will change front-end development. It will increase prototyping speed and lower the barrier for building software. The field took off last year when Tony Beltramelli introduced the pix2code paper and Airbnb launched sketch2code. Currently, the largest barrier to automating front-end development is computing power.</p><img src="https://blog.floydhub.com/content/images/2018/06/design-to-markup-optimize-1.gif"></article>]]></description>
             <link>https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/</link>
@@ -69,13 +76,6 @@
             <link>https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/</link>
             <guid isPermaLink="false">c68e339e-9e4e-4e5d-83fb-167ad7765771</guid>
             <pubDate>Wed, 16 May 2018 16:54:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lobe | Deep Learning Made Simple]]></title>
-            <description><![CDATA[<article><h1>Lobe | Deep Learning Made Simple</h1><p>Lobe is an easy-to-use visual tool that lets you build custom deep learning models, quickly train them, and ship them directly in your app without writing any code.</p><img src="https://lobe.ai/Lobe-OGImage.jpg"></article>]]></description>
-            <link>https://lobe.ai/</link>
-            <guid isPermaLink="false">fd9f099b-3a23-4f58-a2f8-f313e91db71f</guid>
-            <pubDate>Wed, 02 May 2018 17:09:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
