@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jun 2018 15:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jun 2018 15:34:13 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 Jun 2018 15:28:21 GMT</pubDate>
+        <pubDate>Thu, 21 Jun 2018 15:34:12 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[SWI-Prolog]]></title>
+            <description><![CDATA[<article><h1>SWI-Prolog</h1><p>SWI-Prolog offers a comprehensive free Prolog environment. Since its start in 1987, SWI-Prolog development has been driven by the needs of real world applications. SWI-Prolog is widely used in research and education as well as commercial applications. Join over a million users who have downloaded SWI-Prolog. more ...</p></article>]]></description>
+            <link>http://www.swi-prolog.org/</link>
+            <guid isPermaLink="false">5f8058bc-7637-4d29-97bb-5b621bf638b8</guid>
+            <pubDate>Thu, 21 Jun 2018 15:34:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is There a Smarter Path to Artificial Intelligence? Some Experts Hope So]]></title>
             <description><![CDATA[<article><h1>Is There a Smarter Path to Artificial Intelligence? Some Experts Hope So</h1><p>For the past five years, the hottest thing in artificial intelligence has been a branch known as deep learning. The grandly named statistical technique, put simply, gives computers a way to learn by processing vast amounts of data. Thanks to deep learning, computers can easily identify faces and recognize spoken words, making other forms of humanlike intelligence suddenly seem within reach.</p><img src="https://static01.nyt.com/images/2018/05/31/business/00DEEPLEARNING-1/00DEEPLEARNING-1-facebookJumbo.jpg"></article>]]></description>
             <link>https://www.nytimes.com/2018/06/20/technology/deep-learning-artificial-intelligence.html</link>
@@ -69,13 +76,6 @@
             <link>https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/</link>
             <guid isPermaLink="false">c30d8804-dd9b-4b2b-a0eb-5cdb3f76c1b8</guid>
             <pubDate>Mon, 11 Jun 2018 22:32:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teaching My Robot With TensorFlow]]></title>
-            <description><![CDATA[<article><h1>Teaching My Robot With TensorFlow</h1><p>If you&apos;re like me, then you&apos;d do pretty much anything to have your own R2-D2 or BB-8 robotic buddy. Just imagine the adorable adventures you&apos;d have together! I&apos;m delighted to report that the Anki Cozmo is the droid you&apos;ve been looking for. Cozmo is big personality packed into a itty-bitty</p><img src="https://images.unsplash.com/photo-1508175800969-525c72a047dd?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=8eb41ac5512139aa4d36228fd9fb9b99"></article>]]></description>
-            <link>https://blog.floydhub.com/teaching-my-robot-with-tensorflow/</link>
-            <guid isPermaLink="false">c4f6cb4e-4bbb-4f87-9010-40ee261d0718</guid>
-            <pubDate>Thu, 07 Jun 2018 15:16:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
