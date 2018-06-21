@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jun 2018 16:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jun 2018 15:28:23 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 Jun 2018 16:13:14 GMT</pubDate>
+        <pubDate>Thu, 21 Jun 2018 15:28:21 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Is There a Smarter Path to Artificial Intelligence? Some Experts Hope So]]></title>
+            <description><![CDATA[<article><h1>Is There a Smarter Path to Artificial Intelligence? Some Experts Hope So</h1><p>For the past five years, the hottest thing in artificial intelligence has been a branch known as deep learning. The grandly named statistical technique, put simply, gives computers a way to learn by processing vast amounts of data. Thanks to deep learning, computers can easily identify faces and recognize spoken words, making other forms of humanlike intelligence suddenly seem within reach.</p><img src="https://static01.nyt.com/images/2018/05/31/business/00DEEPLEARNING-1/00DEEPLEARNING-1-facebookJumbo.jpg"></article>]]></description>
+            <link>https://www.nytimes.com/2018/06/20/technology/deep-learning-artificial-intelligence.html</link>
+            <guid isPermaLink="false">2701348a-b2fb-45bc-8735-882b36b52069</guid>
+            <pubDate>Thu, 21 Jun 2018 15:28:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Maneki Neko - Lightspeed Magazine]]></title>
             <description><![CDATA[<article><h1>Maneki Neko - Lightspeed Magazine</h1><p>&quot;I can&apos;t go on,&quot; his brother said. Tsuyoshi Shimizu looked thoughtfully into the screen of his pasokon. His older brother&apos;s face was shiny with sweat from a late-night drinking bout. &quot;It&apos;s only a career,&quot; said Tsuyoshi, sitting up on his futon and adjusting his pajamas. &quot;You worry too much.&quot;</p><img src="http://www.lightspeedmagazine.com/wp-content/uploads/2011/04/Maneki-Neko-by-Bruce-Sterling.jpg"></article>]]></description>
             <link>http://www.lightspeedmagazine.com/fiction/maneki-neko/</link>
@@ -69,13 +76,6 @@
             <link>https://blog.floydhub.com/teaching-my-robot-with-tensorflow/</link>
             <guid isPermaLink="false">c4f6cb4e-4bbb-4f87-9010-40ee261d0718</guid>
             <pubDate>Thu, 07 Jun 2018 15:16:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To Build Truly Intelligent Machines, Teach Them Cause and Effect | Quanta Magazine]]></title>
-            <description><![CDATA[<article><h1>To Build Truly Intelligent Machines, Teach Them Cause and Effect | Quanta Magazine</h1><p>Artificial intelligence owes a lot of its smarts to Judea Pearl. In the 1980s he led efforts that allowed machines to reason probabilistically. Now he&apos;s one of the field&apos;s sharpest critics. In his latest book, &quot; The Book of Why: The New Science of Cause and Effect,&quot; he argues that artificial intelligence has been handicapped by an incomplete understanding of what intelligence really is.</p><img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/05/Pearl_Library_2880x1920-2880x1920.jpg"></article>]]></description>
-            <link>https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/</link>
-            <guid isPermaLink="false">c68e339e-9e4e-4e5d-83fb-167ad7765771</guid>
-            <pubDate>Wed, 16 May 2018 16:54:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
