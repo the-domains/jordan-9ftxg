@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jun 2018 15:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Aug 2018 15:06:53 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 Jun 2018 15:34:12 GMT</pubDate>
+        <pubDate>Tue, 14 Aug 2018 15:06:51 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Total Beginner's Guide to Game AI]]></title>
+            <description><![CDATA[<article><h1>The Total Beginner&apos;s Guide to Game AI</h1><p>This article will introduce you to a range of introductory concepts used in artificial intelligence for games (or &apos;Game AI&apos; for short) so that you can understand what tools are available for approaching your AI problems, how they work together, and how you might start to implement them in the language or engine of your choice.</p><img src="https://www.gamedev.net/uploads/monthly_2018_08/unity-navmesh-thumb.png.148d857969001736524914be6e099c13.png"></article>]]></description>
+            <link>https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/</link>
+            <guid isPermaLink="false">4aad582a-f91d-47c5-aa7a-8b1c4c9d0b73</guid>
+            <pubDate>Tue, 14 Aug 2018 15:06:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SWI-Prolog]]></title>
             <description><![CDATA[<article><h1>SWI-Prolog</h1><p>SWI-Prolog offers a comprehensive free Prolog environment. Since its start in 1987, SWI-Prolog development has been driven by the needs of real world applications. SWI-Prolog is widely used in research and education as well as commercial applications. Join over a million users who have downloaded SWI-Prolog. more ...</p></article>]]></description>
             <link>http://www.swi-prolog.org/</link>
@@ -69,13 +76,6 @@
             <link>http://www.lightspeedmagazine.com/fiction/maneki-neko/</link>
             <guid isPermaLink="false">40ebe73c-e5a0-4e3b-8904-18e9361d0f1a</guid>
             <pubDate>Wed, 20 Jun 2018 16:13:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turning Design Mockups Into Code With Deep Learning]]></title>
-            <description><![CDATA[<article><h1>Turning Design Mockups Into Code With Deep Learning</h1><p>Within three years deep learning will change front-end development. It will increase prototyping speed and lower the barrier for building software. The field took off last year when Tony Beltramelli introduced the pix2code paper and Airbnb launched sketch2code. Currently, the largest barrier to automating front-end development is computing power.</p><img src="https://blog.floydhub.com/content/images/2018/06/design-to-markup-optimize-1.gif"></article>]]></description>
-            <link>https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/</link>
-            <guid isPermaLink="false">c30d8804-dd9b-4b2b-a0eb-5cdb3f76c1b8</guid>
-            <pubDate>Mon, 11 Jun 2018 22:32:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
