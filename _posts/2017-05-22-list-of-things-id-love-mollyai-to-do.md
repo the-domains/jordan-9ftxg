@@ -4,8 +4,8 @@ description: >-
   Use your browser inspector, right click on the article/section you want to
   deep link, copy the id and then construct your link YourURL.ai#(the id you
   just copied)
-dateModified: '2018-05-16T17:22:17.646Z'
-datePublished: '2018-05-16T17:22:20.863Z'
+dateModified: '2018-09-19T15:55:55.582Z'
+datePublished: '2018-09-19T15:55:56.863Z'
 title: 'The Grid: Molly.AI wishlist'
 author: []
 publisher: {}
@@ -38,7 +38,7 @@ _type: Blurb
 * **Date and Time stamps** available to be included on the posts. (When)
 * S**ignature/Ownership**: Have option to **attach the user profile/sig to appropriate article**. (Author)
 * **Sort order **(currently v2 ordering appears random)
-  * Latest posts on top? 
+  * Latest posts on top?
   * Oldest posts on top?
   * Alphabetical
   * ect
@@ -72,6 +72,10 @@ _type: Blurb
 * Add **settings/preferences for the admin experience**. IE color theme/font sizes, animations on or off.
 * **Add Revision history**. Date/time/last edited by information.
 * **Choice of different sizes for headers images/videos** (both in app and on site) _Currently wasting space 'above the fold'_
+
+## Security:
+
+* Have user Roles defined in P2P so that not all users you share the site with can edit your site. 
 
 ### Hera K:
 
