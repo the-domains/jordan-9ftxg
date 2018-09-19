@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Aug 2018 15:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Sep 2018 15:58:46 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Aug 2018 15:06:51 GMT</pubDate>
+        <pubDate>Wed, 19 Sep 2018 15:57:43 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Algorithm-Driven Design - How AI is Changing Design by Yury Vetrov]]></title>
+            <description><![CDATA[<article><h1>Algorithm-Driven Design - How AI is Changing Design by Yury Vetrov</h1><p>Will robots replace designers? No. It&apos;s more like an exoskeleton for designers. Algorithm-driven design tools can help us to construct a UI, prepare assets and content, and personalize the user experience.</p><img src="https://d3n32ilufxuvd1.cloudfront.net/58a4abe283821440351be13b/707887/screenshot-99617fd0-b90c-11e8-9913-3766fb6fcd3d_readyscr_1024.jpg"></article>]]></description>
+            <link>https://algorithms.design/</link>
+            <guid isPermaLink="false">094b7fe1-d6ed-43b1-9671-43656cc8ae96</guid>
+            <pubDate>Wed, 19 Sep 2018 15:54:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Total Beginner's Guide to Game AI]]></title>
             <description><![CDATA[<article><h1>The Total Beginner&apos;s Guide to Game AI</h1><p>This article will introduce you to a range of introductory concepts used in artificial intelligence for games (or &apos;Game AI&apos; for short) so that you can understand what tools are available for approaching your AI problems, how they work together, and how you might start to implement them in the language or engine of your choice.</p><img src="https://www.gamedev.net/uploads/monthly_2018_08/unity-navmesh-thumb.png.148d857969001736524914be6e099c13.png"></article>]]></description>
             <link>https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/</link>
@@ -69,13 +76,6 @@
             <link>https://www.nytimes.com/2018/06/20/technology/deep-learning-artificial-intelligence.html</link>
             <guid isPermaLink="false">2701348a-b2fb-45bc-8735-882b36b52069</guid>
             <pubDate>Thu, 21 Jun 2018 15:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Maneki Neko - Lightspeed Magazine]]></title>
-            <description><![CDATA[<article><h1>Maneki Neko - Lightspeed Magazine</h1><p>&quot;I can&apos;t go on,&quot; his brother said. Tsuyoshi Shimizu looked thoughtfully into the screen of his pasokon. His older brother&apos;s face was shiny with sweat from a late-night drinking bout. &quot;It&apos;s only a career,&quot; said Tsuyoshi, sitting up on his futon and adjusting his pajamas. &quot;You worry too much.&quot;</p><img src="http://www.lightspeedmagazine.com/wp-content/uploads/2011/04/Maneki-Neko-by-Bruce-Sterling.jpg"></article>]]></description>
-            <link>http://www.lightspeedmagazine.com/fiction/maneki-neko/</link>
-            <guid isPermaLink="false">40ebe73c-e5a0-4e3b-8904-18e9361d0f1a</guid>
-            <pubDate>Wed, 20 Jun 2018 16:13:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
