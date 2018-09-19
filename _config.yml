@@ -1,3 +1,16 @@
+layout_spectrum: 0.49907528936392676
+typography_spectrum: 0.3493786600253333
+color:
+  lightness: 0.12127873079629965
+  brandColors:
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
+  saturation: 0.5108920295887839
+  brandStrength: 0.6930620560985943
+  rhythmicContrast: 0.24298358355925445
 name: Ghost In The Well
 analytics: {}
 github: true
@@ -116,36 +129,23 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
-  - id: c85c5751-dc62-4e53-8d53-09107f8da8f7
-    name: theGrid.ai Wishlist
+  - name: theGrid.ai Wishlist
+    id: c85c5751-dc62-4e53-8d53-09107f8da8f7
     type: content
-  - id: 821e4a28-72f0-4d6e-9981-736113491ec2
-    name: AI Development
+  - name: AI Resources
+    id: 821e4a28-72f0-4d6e-9981-736113491ec2
     type: content
-  - id: e6907d00-9977-49de-a083-d83e024a4415
-    name: AI Fiction
+  - name: AI Fiction
+    id: e6907d00-9977-49de-a083-d83e024a4415
     type: content
-  - id: 0a0296ca-64d4-412e-a564-7ee4e21c15dc
-    name: Games
+  - name: Games
+    id: 0a0296ca-64d4-412e-a564-7ee4e21c15dc
     type: content
-  - id: 751f5d5d-f232-426a-a9e1-25c7191d0e36
-    name: System Operators
+  - name: System Operators
+    id: 751f5d5d-f232-426a-a9e1-25c7191d0e36
     type: content
-layout_spectrum: 0.7694513315061974
-color:
-  lightness: 0.1216878174576392
-  brandColors:
-    - '#DDDCC5'
-    - '#958976'
-    - '#611427'
-    - '#1D2326'
-    - '#6A6A61'
-  saturation: 0.336919928238552
-  brandStrength: 0.8933670266500057
-  rhythmicContrast: 0.165874940724398
 content_rating:
   adult: false
-typography_spectrum: 0.1757278019514414
 opengraph: {}
 title: Ghost in the Well
-url: 'https://thegrid.ai/ghostinthewell'
+url: 'https://ghostinthewell.com'
