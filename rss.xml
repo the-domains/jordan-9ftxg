@@ -4,9 +4,9 @@
         <description><![CDATA[Ghost in the Well]]></description>
         <link>http://ghostinthewell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Oct 2018 22:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Nov 2018 17:07:29 GMT</lastBuildDate>
         <atom:link href="http://ghostinthewell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Oct 2018 22:03:15 GMT</pubDate>
+        <pubDate>Fri, 30 Nov 2018 17:07:26 GMT</pubDate>
         <item>
             <title><![CDATA[Neural Style Transfer in Julia on GPUs - Julia Computing]]></title>
             <description><![CDATA[<article><h1>Neural Style Transfer in Julia on GPUs - Julia Computing</h1><p>Neural styles are a special type of algorithm that combines the content of one image with the style of another using deep neural networks. It was first introduced in a famous paper by LA Gatys and team at the University of Tubingen, Germany.</p><img src="https://juliacomputing.com/assets/img/style/lily.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 23 May 2017 16:05:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Project CIMON - AI assistant for astronauts]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FPdQ1892wnl4%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPdQ1892wnl4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPdQ1892wnl4%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=PdQ1892wnl4</link>
+            <guid isPermaLink="false">a353e24f-0255-4942-8852-5009376d79ad</guid>
+            <pubDate>Fri, 30 Nov 2018 17:07:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Amazon scraps secret AI recruiting tool that showed bias against women]]></title>
             <description><![CDATA[<article><h1>Amazon scraps secret AI recruiting tool that showed bias against women</h1><p>SAN FRANCISCO (Reuters) - Amazon.com Inc&apos;s () machine-learning specialists uncovered a big problem: their new recruiting engine did not like women. The team had been building computer programs since 2014 to review job applicants&apos; resumes with the aim of mechanizing the search for top talent, five people familiar with the effort told Reuters.</p><img src="https://s3.reutersmedia.net/resources/r/?m=02&d=20181010&t=2&i=1313083803&r=LYNXNPEE9906N"></article>]]></description>
             <link>https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G</link>
@@ -69,13 +76,6 @@
             <link>https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/</link>
             <guid isPermaLink="false">4aad582a-f91d-47c5-aa7a-8b1c4c9d0b73</guid>
             <pubDate>Tue, 14 Aug 2018 15:06:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SWI-Prolog]]></title>
-            <description><![CDATA[<article><h1>SWI-Prolog</h1><p>SWI-Prolog offers a comprehensive free Prolog environment. Since its start in 1987, SWI-Prolog development has been driven by the needs of real world applications. SWI-Prolog is widely used in research and education as well as commercial applications. Join over a million users who have downloaded SWI-Prolog. more ...</p></article>]]></description>
-            <link>http://www.swi-prolog.org/</link>
-            <guid isPermaLink="false">5f8058bc-7637-4d29-97bb-5b621bf638b8</guid>
-            <pubDate>Thu, 21 Jun 2018 15:34:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
